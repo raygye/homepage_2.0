@@ -8,16 +8,16 @@ export default class Sidebar extends Component {
                 <nav className="navbar navbar-light">
                     <ul className="nav flex-column">
                         <li className="nav-item">
-                            <Link className="nav-link active" to="/Home" replace style={{color: "black"}}><div className="txt">home</div></Link>
+                            <Link className="nav-link active" to="/" replace style={{color: "black"}}><div className="txt">home</div></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/About" replace style={{color: "black"}}><div className="txt">about</div></Link>
+                            <Link className="nav-link" to="/skills" replace style={{color: "black"}}><div className="txt">about</div></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/Projects" replace style={{color: "black"}}><div className="txt">projects</div></Link>
+                            <Link className="nav-link" to="/projects" replace style={{color: "black"}}><div className="txt">projects</div></Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/Experience" replace style={{color: "black"}}><div className="txt">experience</div></Link>
+                            <Link className="nav-link" to="/experience" replace style={{color: "black"}}><div className="txt">experience</div></Link>
                         </li>
                     </ul>
                 </nav>
