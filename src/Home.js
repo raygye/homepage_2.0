@@ -3,7 +3,10 @@ import Sidebar from './Sidebar';
 export default class Home extends Component {
     render() {
         return (
-            <Sidebar></Sidebar>
+            <div className="row">
+                <Sidebar classname="col"></Sidebar>
+                <h1>Thanks for visiting!</h1>
+            </div>
         )
     }
 }
