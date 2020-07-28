@@ -17,7 +17,7 @@ export default class Experience extends Component {
                                     <p className="card-text">Worked with a small team of developers to develop a full-fledged management portal for a transportation and logistics company.
                                     </p>
                                     <p>
-                                        Independently completed projects including Google Maps API integrations, digital signature capture, PDF generation automation, and autocomplete API
+                                        Independently completed projects including Google Maps API integrations, digital signature capture, PDF/email automation, and autocomplete API.
                                     </p>
                                 </div>
                                 <div className="card-footer">
