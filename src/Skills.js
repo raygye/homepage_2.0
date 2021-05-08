@@ -7,13 +7,13 @@ export default class Skills extends Component {
                 <Sidebar classname="col" ></Sidebar>
                 <div className="col container mt-2">
                     <h2>skills</h2>
-                    <p>As an aspiring Full Stack Developer, most of my skillset falls under that category, though
-                        I'm open to new opportunities and have experimented with technologies such as NumPy and scikit-learn. Below are
-                        my skills, listed starting from the most fluent.
+                    <p>With considerable experience in Full-Stack Development, most of my skill-set falls under that
+                        category, but since then I've explored other fields such as Mobile and Firmware as well.
                     </p>
                     <div>
-                        <div><strong>languages: </strong>JavaScript, C++, PHP, Java, Python, SQL, HTML, CSS</div>
-                        <div><strong>technologies: </strong>React.js, Node.js, jQuery, PostgresSQL, Express.js, MongoDB</div>
+                        <div><strong>languages: </strong>JavaScript, C++, Python, Java, TypeScript, PHP, SQL, HTML, CSS</div>
+                        <div><strong>technologies: </strong>Node.js, React, React Native,
+                            Salesforce, jQuery, PostgreSQL, Express.js, MongoDB</div>
                         <div><strong>version control: </strong>Git, SFTP</div>
                     </div>
                 </div>
