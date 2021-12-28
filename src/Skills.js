@@ -11,10 +11,9 @@ export default class Skills extends Component {
                         category, but since then I've explored other fields such as Mobile and Firmware as well.
                     </p>
                     <div>
-                        <div><strong>languages: </strong>JavaScript, C++, Python, Java, TypeScript, PHP, SQL, HTML, CSS</div>
-                        <div><strong>technologies: </strong>Node.js, React, React Native,
-                            Salesforce, jQuery, PostgreSQL, Express.js, MongoDB</div>
-                        <div><strong>version control: </strong>Git, SFTP</div>
+                        <div><strong>languages: </strong>Python, JavaScript, C++, Java, TypeScript, PHP, SQL</div>
+                        <div><strong>technologies: </strong>git, Node.js, Docker, Electron, NumPy, pandas, Express.js, React,
+                            jQuery, PostgreSQL, MongoDB, Salesforce</div>
                     </div>
                 </div>
             </div>

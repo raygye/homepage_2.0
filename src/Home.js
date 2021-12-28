@@ -7,10 +7,10 @@ export default class Home extends Component {
                 <Sidebar classname="col" ></Sidebar>
                 <div className="col container mt-2">
                     <h2>looks like you found this page!</h2>
-                    <p>Thanks for visiting! My name is Gary Ye and I'm currently enrolled in 2B Computer Engineering at the University of Waterloo.
+                    <p>Thanks for visiting! My name is Gary Ye and I'm currently enrolled in 3A Computer Engineering at the University of Waterloo.
                     </p>
                     <p style={{lineHeight: "50%"}}>
-                        Getting right into it, here you can find all you need to know about me: my skills, my projects, and my work experience.
+                        Since you made the trip here, I might as well tell you a bit about myself. Here you can find a brief summary of me: my skills, my projects, and my work experience.
                     </p>
                 </div>
             </div>
