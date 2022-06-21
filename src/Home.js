@@ -12,7 +12,7 @@ export default class Home extends Component {
                     <p style={{lineHeight: "50%"}}>
                         Since you made the trip here, I might as well tell you a bit about myself. Here you can find a brief summary of me: my skills, my projects, and my work experience.
                     </p> */}
-                    <p>i didn't wanna disappoint, so i made this page just in case anyoned did some snooping</p>
+                    <p>i didn't wanna disappoint, so i made this page just in case anyone did some snooping</p>
                     <embed style={{height: '100vh', width: '75vw'}} src={require(`./media/Resume.pdf`)} type="application/pdf"/>
                 </div>
             </div>
